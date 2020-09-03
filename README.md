@@ -1,4 +1,4 @@
-# bengalore-home-price-prediction
+# benglore-home-price-prediction
 Deployment of a  machine learning program to predict home price in the bengalore area of India.
 Data was obtained, cleaned and wrangled using pandas.
 The dimensions of the data was reduced and outliers were detected and removed.
